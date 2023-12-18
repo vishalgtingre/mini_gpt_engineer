@@ -22,6 +22,8 @@ To run Mini GPT Engineer on your machine, follow these simple steps:
 2. Navigate to the project directory:
    ```bash
    cd mini-gpt-engineer
+
+3. Run ```bash pip install -r requirements.txt
 4. Run the program using Python:
    ```bash
    python main.py
